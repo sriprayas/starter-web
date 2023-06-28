@@ -15,3 +15,5 @@ The rebase is done. Now changeing in child branch
 Add line to understand stash logic
 
 ##Deployment
+
+##Copyright
