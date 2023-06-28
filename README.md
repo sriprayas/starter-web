@@ -15,5 +15,7 @@ The rebase is done. Now changeing in child branch
 Add line to understand stash logic
 
 ##Deployment
+Deployments are to be done at night
 
 ##Copyright
+All rights reserved
